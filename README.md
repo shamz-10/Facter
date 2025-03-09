@@ -8,6 +8,7 @@ FACTER is an innovative platform designed to empower users in assessing the cred
 FACTER allows users to input links from external sources for verification. The system follows a structured process to analyze and validate the credibility of the content:
 - If the link has been previously analyzed, users are redirected to the existing verification page, ensuring quick access to up-to-date credibility scores and verification details.
 - If the link is new, the system extracts key content, compares it with verified news sources in real time, and generates a credibility score. A new verification page is created and continuously updated as new information becomes available.
+
 This approach ensures that users always receive accurate and evolving credibility assessments based on real-time news monitoring.
 
 ## 3. Community Engagement: The ‘Community Notes’ Feature
